@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MedicalCalculatorDC</string>
+    <string name="hint">Weight Of Patient</string>
+    <string name="radLbToKg">Convert Pounds to Kilograms</string>
+    <string name="radKgToLb">Convert Kilograms to Pounds</string>
+    <string name="btnConvert">Convert Weight</string>
+    <string name="txtTitle">Convert Patient Weight</string>
+</resources>
